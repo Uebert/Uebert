@@ -2,15 +2,18 @@
 
 ###
 
-As a doctoral candidate in Computational Mathematics at USP, I specialize in developing numerical algorithms and mathematical tools using Python and MATLAB. After some years teaching experience — from secondary school through graduate-level courses — I design and deliver clear, application-oriented tutorials that demystify complex mathematical concepts.
+📌 As a doctoral candidate in Computational Mathematics at USP, I specialize in developing numerical algorithms and mathematical tools using Python and MATLAB. After some years teaching experience — from secondary school through graduate-level courses — I design and deliver clear, application-oriented tutorials that demystify complex mathematical concepts.
 
 - 🔭 I’m currently working on simulations to describe flow in porous media;
 - 🌱 I’m currently learning how to solve hyperbolic problems in FEniCSx.
 
 ###
 
-🔹 **Expertise**: Python, MATLAB, Numerical Methods, Calculus, Linear Algebra, Algorithm Design;
+🔹 **Expertise**: Python, MATLAB, Numerical Methods, Calculus, Linear Algebra;
+
 🔹 **Education**: Mathematician; MSc in Computational Modeling; PhD (in progress).
+
+## 📃 Some Skills: Programming Languages and Tools
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
@@ -34,16 +37,16 @@ As a doctoral candidate in Computational Mathematics at USP, I specialize in dev
 
 ###
 
-<!<div align="center">
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=Uebert&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>>
+</div>
 
 ###
-
+<!
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Uebert/Uebert/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Uebert/Uebert/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Uebert/Uebert/output/pacman-contribution-graph.svg">
 </picture>
-
+>
 ###
