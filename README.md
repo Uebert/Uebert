@@ -5,13 +5,11 @@
 As a doctoral candidate in Computational Mathematics at USP, I specialize in developing numerical algorithms and mathematical tools using Python and MATLAB. After some years teaching experience — from secondary school through graduate-level courses — I design and deliver clear, application-oriented tutorials that demystify complex mathematical concepts.
 
 - 🔭 I’m currently working on simulations to describe flow in porous media;
-- 🌱 I’m currently learning to solve PDEs in FEniCSx;
-- 👯 I’m looking to collaborate on JSM Lab group.
+- 🌱 I’m currently learning how to solve hyperbolic problems in FEniCSx;
 
 ###
 
 🔹 **Expertise**: Python, MATLAB, Numerical Methods, Calculus, Linear Algebra, Algorithm Design;
-
 🔹 **Education**: Mathematician; MSc in Computational Modeling; PhD (in progress).
 
 <div align="center">
@@ -38,7 +36,6 @@ As a doctoral candidate in Computational Mathematics at USP, I specialize in dev
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Uebert&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Uebert&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
