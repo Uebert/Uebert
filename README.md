@@ -2,7 +2,7 @@
 
 ###
 
-📌 As a doctoral candidate in Computational Mathematics at USP, I specialize in developing numerical algorithms and mathematical tools using Python and MATLAB. After some years teaching experience — from secondary school through graduate-level courses — I design and deliver clear, application-oriented tutorials that demystify complex mathematical concepts.
+📌 As a PhD candidate in Computational Mathematics at USP, I specialize in developing numerical algorithms and mathematical tools using Python and MATLAB. After some years teaching experience — from secondary school through graduate-level courses — I design and deliver clear, application-oriented tutorials that demystify complex mathematical concepts.
 
 - 🔭 I’m currently working on simulations to describe flow in porous media;
 - 🌱 I’m currently learning how to solve hyperbolic problems in FEniCSx.
@@ -41,12 +41,12 @@
   <img src="https://streak-stats.demolab.com?user=Uebert&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
+<!--
 ###
-<!
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Uebert/Uebert/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Uebert/Uebert/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Uebert/Uebert/output/pacman-contribution-graph.svg">
 </picture>
->
 ###
+-->
