@@ -39,11 +39,20 @@
 
 <div>
   <a href="https://beacons.ai/Uebert">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Uebert&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en" />
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uebert&locale=en&layout=compact&langs_count=16&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Uebert&show_icons=true&include_all_commits=true&count_private=true&theme=dark&locale=en" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uebert&locale=en&layout=compact&langs_count=16&theme=dark" />
 </div>
 
 ###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Uebert/Uebert/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Uebert/Uebert/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Uebert/Uebert/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 <!--
 ###
 <picture>
