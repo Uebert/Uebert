@@ -5,7 +5,8 @@
 As a doctoral candidate in Computational Mathematics at USP, I specialize in developing numerical algorithms and mathematical tools using Python and MATLAB. After some years teaching experience — from secondary school through graduate-level courses — I design and deliver clear, application-oriented tutorials that demystify complex mathematical concepts.
 
 - 🔭 I’m currently working on simulations to describe flow in porous media;
-- 🌱 I’m currently learning how to solve hyperbolic problems in FEniCSx;
+- 
+- 🌱 I’m currently learning how to solve hyperbolic problems in FEniCSx.
 
 ###
 
