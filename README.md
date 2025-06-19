@@ -11,7 +11,7 @@
 
 🔹 **Expertise**: Python, MATLAB, Numerical Methods, Calculus, Linear Algebra;
 
-🔹 **Education**: Mathematician; MSc in Computational Modeling; PhD (in progress).
+🔹 **Education**: BSc in Mathematics; MSc in Computational Modeling; PhD (in progress).
 
 ## ⚙️ Some Skills: Programming Languages and Tools
 
