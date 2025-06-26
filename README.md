@@ -37,6 +37,10 @@
 
 ###
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uebert&layout=donut)](https://github.com/Uebert/github-readme-stats)
+
+###
+
 <div>
   <a href="https://beacons.ai/Uebert">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Uebert&show_icons=true&include_all_commits=true&count_private=true&theme=dark&locale=en" />
@@ -58,10 +62,7 @@
 ###
 
 <br clear="both">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Uebert/Uebert/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Uebert/Uebert/output/pacman-contribution-graph.svg">
-</picture>
+
 <img src="https://raw.githubusercontent.com/Uebert/Uebert/output/snake.svg" alt="Snake animation" />
 
 ###
