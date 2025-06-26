@@ -37,10 +37,6 @@
 
 ###
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uebert&layout=donut)](https://github.com/Uebert/github-readme-stats)
-
-###
-
 <div>
   <a href="https://beacons.ai/Uebert">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Uebert&show_icons=true&include_all_commits=true&count_private=true&theme=dark&locale=en" />
